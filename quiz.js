@@ -15,7 +15,7 @@
 
 3. 아래 테스트 케이스로 결과를 검증하세요:
 const testCase1 = {
-   name: "강태진",
+   name: "강태진", 
    email: "taejin@taejin.com",
    age: 25
 };
